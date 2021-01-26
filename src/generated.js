@@ -4,3 +4,4 @@ export default function generated() {
   const c = liftB((a, b) => Number(a) + Number(b), a, b);
   insertDomB( c , 'C' );
   }
+  
